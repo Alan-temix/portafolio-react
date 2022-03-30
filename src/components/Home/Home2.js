@@ -21,12 +21,12 @@ function Home2() {
             <p className="home-about-body">
               Mi nomnbre es Alan Temix
               <br />
-              <br />Soy un apasionado de la técnologia, comence a interesarme en la programación desde los 19 años
+              <br />Soy un apasionado de la tecnología, comence a interesarme en la programación desde los 19 años
               <i>
-                <b className="purple"> Mi primer lenguaje de programación fue PHP de ahí prosegui con python en su version 2, posteriormente me pase a javascript y nodejs.</b>
+                <b className="purple"> Mi primer lenguaje de programación fue PHP de ahí proseguí con python en su versión 2, posteriormente me pase a javascript y nodejs.</b>
               </i>
               <p>
-                Mi primer vistaso a la programación fue cuando me interese en hacer un foro web, como no sabía me conseguí un libro que trataba sobre PHP en su versión 5, en ese entonces la más actual, que se conectaba a una base de datos junto con phpmyadmin.
+                Mi primer vistazo a la programación fue cuando me interese en hacer un foro web, como no sabía me conseguí un libro que trataba sobre PHP en su versión 5, en ese entonces la más actual, que se conectaba a una base de datos junto con phpmyadmin.
                 Desde ahí empezo mi aprendizaje y fui aprendiendo de manera autodidacta lo que se requería (Bases de datos, Html, Css, JavaScript).
                 A la edad de 21 años entre en Academlo, un Bootcamp sobre desarrollo web.
                 <br />

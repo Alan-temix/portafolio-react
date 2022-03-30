@@ -39,7 +39,7 @@ Todas las tareas se guardan en el localstorage del navegador para mantener la pe
               isBlog={false}
               title="Ecommerce User Interface"
               description="Diseño y funcionalidad de una simple ecommerce, contiene el listado principal de los productos, carrito de compras, detalle del producto, y sección de checkout.
-Para este proyecto se utilizo ReactJs, Tailwind y react router"
+Para este proyecto se utilizó ReactJs, Tailwind y React router"
               link="https://github.com/Alan-temix/Ecommerce-ui"
             />
           </Col>
@@ -49,7 +49,7 @@ Para este proyecto se utilizo ReactJs, Tailwind y react router"
               imgPath={country_info}
               isBlog={false}
               title="Country Info"
-              description="Aplicación que ofrece la información de diferentes paises, tales como ubicación geografica, latitud, longitud, a que region pertenece, area, humedad, temperatura actual de la capital de ese país, entre otros. El aplicativo consume la API de un tercero."
+              description="Aplicación que ofrece la información de diferentes países, tales como ubicación geográfica, latitud, longitud, a que región pertenece, área, humedad, temperatura actual de la capital de ese país, entre otros. El aplicativo consume la API de un tercero."
               link="https://github.com/Alan-temix/CountryInfo"
             />
           </Col>

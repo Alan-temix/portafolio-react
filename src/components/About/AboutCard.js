@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hola, me llamo<span className="purple"> Alan Temix </span>
-            soy de <span className="purple"> Veracruz, Mexico.</span>
+            soy de <span className="purple"> Veracruz, México. </span>
             <br />Soy un estudiante de programación y desarrollo web, actualmente me encuentro estudiando en Academlo.
             <br />Aunque algunos de mis conocimientos actuales los había desarrollado desde antes de manera autodidacta.
             <br />Creo en que un buen desarrollador no solo se mide por sus aptitudes duras si no también las habilidades blandas.
